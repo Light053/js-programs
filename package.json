@@ -1,0 +1,11 @@
+{
+  "name": "js-prog",
+  "version": "1.0.0",
+  "description": "many js programs",
+  "main": "script.js",
+  "scripts": {
+    "test": "abc"
+  },
+  "author": "Light",
+  "license": "ISC"
+}
